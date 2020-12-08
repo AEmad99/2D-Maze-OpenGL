@@ -1,0 +1,7 @@
+﻿  OpenGL2DTemplate.cpp
+C:\Users\Ahmed AKA Borgar\Desktop\OpenGL2DTemplate_18508_33602\OpenGL2DTemplate\OpenGL2DTemplate.cpp(193,8): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Ahmed AKA Borgar\Desktop\OpenGL2DTemplate_18508_33602\OpenGL2DTemplate\OpenGL2DTemplate.cpp(453,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ahmed AKA Borgar\Desktop\OpenGL2DTemplate_18508_33602\OpenGL2DTemplate\OpenGL2DTemplate.cpp(462,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ahmed AKA Borgar\Desktop\OpenGL2DTemplate_18508_33602\OpenGL2DTemplate\OpenGL2DTemplate.cpp(465,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+OpenGL2DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\Ahmed AKA Borgar\Desktop\OpenGL2DTemplate_18508_33602\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
